@@ -1,3 +1,5 @@
 ## Black Thursday
+### A hand-rolled Ruby simulation of a sales platform database, including business intelligence and CRUD functionality. 
+#### 4-person group project completed over 10 days. 
 
-Find the [project spec here](http://backend.turing.io/module1/projects/black_thursday/).
+
