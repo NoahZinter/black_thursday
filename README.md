@@ -5,7 +5,7 @@
 
 ---
 
-Black Thursday Schema.png![Black Thursday Schema](https://user-images.githubusercontent.com/77814101/126880269-52bd1ed9-6eee-481e-8082-e4d0b955f878.png)
+Black Thursday Schema: ![Black Thursday Schema](https://user-images.githubusercontent.com/77814101/126880269-52bd1ed9-6eee-481e-8082-e4d0b955f878.png)
 
 
 
