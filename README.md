@@ -3,4 +3,6 @@
 #### 4-person group project completed over 10 days. 
 #### OUR DEVS: [Noah Zinter](https://www.linkedin.com/in/noahzinter), [Richard DeSilvey](https://www.linkedin.com/in/richard-desilvey-33161696/), [Molly Krumholz](https://www.linkedin.com/in/mkrumholz/), [Samantha Peterson](https://www.linkedin.com/in/samantha-peterson-15b18220b/)
 
+---
+
 
